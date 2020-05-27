@@ -1,0 +1,185 @@
+body {
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+ #title {
+  background-color: #c86b85;
+  color: #f5eee6;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 4rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
+p {
+  color: #c86b85;
+}
+
+.woodog-logo {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container-fluid {
+  padding: 3.5% 15% 7%;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding-left: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+
+}
+
+/* Download Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* Features section */
+
+#features {
+  padding: 10% 15%;
+  background-color: #f5eee6;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 7%;
+}
+
+.icon {
+  color: #e6a4b4;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #c86b85;
+}
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #e6a4b4;
+  text-align: center;
+  color: #f5eee6;
+}
+
+.carousel-item {
+  padding: 10% 15%;
+
+}
+
+.testimonials-image {
+  width: 12%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+/* Press Section */
+
+#press {
+  background-color: #e6a4b4;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-images {
+  width: 15%;
+  margin: 20px 50px 20px;
+}
+
+/* Pricing section */
+
+#pricing {
+  padding: 100px;
+  background-color: #f5eee6;
+}
+
+.pricing-sect {
+  padding: 3% 3%;
+}
+
+.card-header-rong {
+  background-color: #e6a4b4;
+}
+
+.card-body-rong {
+  background-color: #f3d7ca;
+}
+
+/* Call to Action Section */
+
+#cta {
+  background-color: #c86b85;
+  color: #f5eee6;
+  padding: 10% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: Montserrat;
+  font-weight: 900px;
+  font-size: 3.2rem;
+  line-height: 1.6;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #f5eee6;
+}
+.footer-icon {
+  padding: 2% 2%;
+  color: #c86b85;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+  }
+
+}
