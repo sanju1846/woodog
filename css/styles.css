@@ -34,7 +34,7 @@ p {
 }
 
 .container-fluid {
-  padding: 3.5% 15% 7%;
+  padding: 3.5% 10% 7%;
 }
 
 .navbar {
@@ -75,7 +75,7 @@ p {
 /* Features section */
 
 #features {
-  padding: 10% 15%;
+  padding: 10% 10%;
   background-color: #f5eee6;
   position: relative;
 }
@@ -103,7 +103,7 @@ p {
 }
 
 .carousel-item {
-  padding: 10% 15%;
+  padding: 10% 10%;
 
 }
 
@@ -151,7 +151,7 @@ p {
 #cta {
   background-color: #c86b85;
   color: #f5eee6;
-  padding: 10% 15%;
+  padding: 10% 10%;
   text-align: center;
 }
 
@@ -164,7 +164,7 @@ p {
 
 #footer {
   text-align: center;
-  padding: 7% 15%;
+  padding: 7% 10%;
   background-color: #f5eee6;
 }
 .footer-icon {
